@@ -1,3 +1,5 @@
+<img width="1343" height="734" alt="Screenshot 2026-04-17 093448" src="https://github.com/user-attachments/assets/f718dc2d-1029-4454-9961-a97e715c2596" />
+
 # customer_shopping_behavior_analysis
 Data analysis project showcasing  customer behavior analysis using Python, SQL and PowerBI
 
@@ -71,3 +73,5 @@ Observed customer buying patterns and peak sales periods
 Analyzed the impact of discounts on sales performance
 Provided actionable insights for improving sales strategy
 
+# Dashboard Preview
+<img width="1343" height="734" alt="Screenshot 2026-04-17 093448" src="https://github.com/user-attachments/assets/73d0c3da-9e68-44ff-b181-2a1f9456dded" />
